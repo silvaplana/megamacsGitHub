@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<swingtail>
+<settingspanel>
+<rowsToRead>0</rowsToRead>
+<rowsToShow>0</rowsToShow>
+<lineWrap>false</lineWrap>
+<showSplash>false</showSplash>
+<polltime>0</polltime>
+<font>
+<fontName>Arial</fontName>
+<fontStyle>0</fontStyle>
+<fontSize>12</fontSize>
+</font>
+</settingspanel>
+<bookmarks/>
+</swingtail>

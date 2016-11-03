@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/filetransfer/ClientTransfer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/filetransfer/ServerTransferService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/client/ClientImmediate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/client/NetworkSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/InfoMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/NetworkConstant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/ProcessOrderMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/StateNotificationMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/TransferRequestMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/messages/TransferResponseMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/immediate/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/messaging/transfer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/preparedata/PrepareMacsDataService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/preparedata/PrepareSicsDataService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/megamacs/runandkill/RunService.java" charset="UTF-8" />
+  </component>
+</project>
+
